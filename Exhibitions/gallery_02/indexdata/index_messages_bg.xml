@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="bg_project_title"><![CDATA[New Project]]></data>
+  <data name="bg_project_author_name"><![CDATA[ogledi.bg]]></data>
+  <data name="bg_project_author_url"><![CDATA[http://www.ogledi.bg]]></data>
+
+
+
+  <data name="bg_pano34_title"><![CDATA[R0010038_20220512133852]]></data>
+
+
+  <data name="bg_pano35_title"><![CDATA[R0010039_20220512133924]]></data>
+
+
+  <data name="bg_pano36_title"><![CDATA[R0010040_20220512133951]]></data>
+
+
+  <data name="bg_pano37_title"><![CDATA[R0010041_20220512134017]]></data>
+
+
+  <data name="bg_pano38_title"><![CDATA[R0010042_20220512134036]]></data>
+
+
+  <data name="bg_pano40_title"><![CDATA[R0010044_20220512134138]]></data>
+
+
+  <data name="bg_pano41_title"><![CDATA[R0010045_20220512134212]]></data>
+
+
+	<data name="bg_spotmap51_tooltip"><![CDATA[]]></data>
+	<data name="bg_spotmap52_tooltip"><![CDATA[]]></data>
+	<data name="bg_spotmap53_tooltip"><![CDATA[]]></data>
+	<data name="bg_spotmap54_tooltip"><![CDATA[]]></data>
+	<data name="bg_spotmap55_tooltip"><![CDATA[]]></data>
+	<data name="bg_spotmap57_tooltip"><![CDATA[]]></data>
+	<data name="bg_spotmap58_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="bg_analyticsgoogle_tracking_id"><![CDATA[UA-82648529-1]]></data>
+
+
+  <data name="bg_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="bg_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="bg_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="bg_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="bg_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="bg_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="bg_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="bg_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="bg_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="bg_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="bg_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="bg_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="bg_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="bg_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="bg_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="bg_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="bg_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="bg_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="bg_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="bg_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="bg_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="bg_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="bg_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="bg_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="bg_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="bg_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="bg_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="bg_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="bg_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="bg_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
